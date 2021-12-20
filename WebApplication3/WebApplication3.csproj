@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>c8310533-2d6d-47e6-b404-feded6837024</UserSecretsId>
+    <ApplicationInsightsResourceId>/subscriptions/bd767fe5-fc68-430e-b590-fdfb8da7bc2a/resourceGroups/DisposableResources_FeelFreeToDeleteTheseAnyTime/providers/microsoft.insights/components/whizlabwebapp</ApplicationInsightsResourceId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
+  </ItemGroup>
+
+</Project>
