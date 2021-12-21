@@ -1,7 +1,7 @@
 pool:
   vmImage: 'ubuntu-18.04'
 
-container: ubuntu-latest
+container: ubuntu-20.04
 
 steps:
 - script: echo Hello, world!
