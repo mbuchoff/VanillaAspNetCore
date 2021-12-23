@@ -6,8 +6,4 @@
     <ApplicationInsightsResourceId>/subscriptions/bd767fe5-fc68-430e-b590-fdfb8da7bc2a/resourceGroups/DisposableResources_FeelFreeToDeleteTheseAnyTime/providers/microsoft.insights/components/whizlabwebapp</ApplicationInsightsResourceId>
   </PropertyGroup>
 
-  <ItemGroup>
-    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.20.0" />
-  </ItemGroup>
-
 </Project>
